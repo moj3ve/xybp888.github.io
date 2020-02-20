@@ -1,3 +1,106 @@
+Package: com.xybp888.CallAssist11
+Version: 2.1-2
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.xybp888.CallAssist11_2.1-2_iphoneos-arm.deb
+Size: 679412
+MD5sum: a038f4d3c12aa5725f22c6c94b38b437
+SHA1: 7d7e1a0a5da4c31d0275de86fab81f9fb1aeef9a
+SHA256: 428f78859c3139559bbcde2dfe8dfe3580ca1cd73467b72868d72fc83f28c433
+Section: 插件
+Priority: optional
+Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/51
+Icon: file:///Applications/MobilePhone.app/AppIcon60x60@2x.png
+Name: 电话助手iOS11-正式完整版(兼容A11)
+Sileodepiction: https://apt.htv123.com/sileo/51
+
+Package: com.xybp888.CallAssist12
+Version: 2.4.6-15
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.4.6-15_iphoneos-arm.deb
+Size: 809176
+MD5sum: 8f3422ae54298908156374903c5474f2
+SHA1: 2520dd05cce1648bb221b1b5ed84902b4a86f512
+SHA256: 3dec7ce2da31912f8f90cd639fd336abb4199a80b8a13854023d7408212b8a4c
+Section: 插件
+Priority: optional
+Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
+ 来去电归属地/联系人左滑删除/通话记录解除限制
+ 短信归属地/短信拦截/短信强力防轰炸
+ 来去电接通/挂断震动/自定义振动
+ 来电骚扰拦截/自定义黑名单拦截/自定义白名单
+ 锁屏滑动拒接/拒接按钮显示/CallKit通话
+ 特定时间格式/双击锁屏/双击亮屏/照片永久删除
+ 自定义运营商文字(支持双卡)/电池原生百分比
+ 启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
+ 自定义电池填充颜色,充电呼吸灯等
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/157
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com/sileo/157
+
+Package: com.xybp888.CallAssist12
+Version: 2.4.6-16
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.4.6-16_iphoneos-arm.deb
+Size: 808836
+MD5sum: b5cee70e3da30cbeb6b5f34e301a44a7
+SHA1: 4367c80a507bb7744977323e653e91555d9f0a67
+SHA256: ad05c0cbc31ba54a99de416259b8879c781f32965dba82a0fc9036fdaaafbe26
+Section: 插件
+Priority: optional
+Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
+ 来去电归属地/联系人左滑删除/通话记录解除限制
+ 短信归属地/短信拦截/短信强力防轰炸
+ 来去电接通/挂断震动/自定义振动
+ 来电骚扰拦截/自定义黑名单拦截/自定义白名单
+ 锁屏滑动拒接/拒接按钮显示/CallKit通话
+ 特定时间格式/双击锁屏/双击亮屏/照片永久删除
+ 自定义运营商文字(支持双卡)/电池原生百分比
+ 启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
+ 自定义电池填充颜色,充电呼吸灯等
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/158
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com/sileo/158
+
+Package: com.xybp888.CallAssist12
+Version: 2.4.6-23
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.4.6-23_iphoneos-arm.deb
+Size: 967318
+MD5sum: e99650e07156dccc857b8cb701006b0a
+SHA1: 2bd0f00f674d9617ab8129587a65d0deb46d129b
+SHA256: fb9e5a786c83712b44f80de63d2718824b92afd7dc0d2c139cfd224550d7f6c2
+Section: 插件
+Priority: optional
+Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
+ 来去电归属地/联系人左滑删除/通话记录解除限制
+ 短信归属地/短信拦截/短信强力防轰炸
+ 来去电接通/挂断震动/自定义振动
+ 来电骚扰拦截/自定义黑名单拦截/自定义白名单
+ 锁屏滑动拒接/拒接按钮显示/CallKit通话
+ 特定时间格式/双击锁屏/双击亮屏/照片永久删除
+ 自定义运营商文字(支持双卡)/电池原生百分比
+ 启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
+ 自定义电池填充颜色,充电呼吸灯等
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/165
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com/sileo/165
+
 Package: com.xybp888.CallAssist12
 Version: 2.4.9
 Architecture: iphoneos-arm
@@ -35,6 +138,25 @@ Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@
 Name: 电话助手iOS12-正式完整版(兼容A12)
 
 Package: com.xybp888.CallAssist13
+Version: 0.9.9-17
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.xybp888.CallAssist13_0.9.9-17_iphoneos-arm.deb
+Size: 792038
+MD5sum: 6b4df0200f37532e493c08c152b88ddf
+SHA1: 321032d80f5bd99be8177c7dfc12fa98b00206b3
+SHA256: 0fe8d8e7025649b3d6401f48501510ac8957a45883e41e55d8db82169091c9a3
+Section: 插件
+Priority: optional
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/172
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS13-测试版
+Sileodepiction: https://apt.htv123.com/sileo/172
+
+Package: com.xybp888.CallAssist13
 Version: 0.9.9-23
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
@@ -51,4 +173,42 @@ Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚�
 Author: xybp888 <8657156@qq.com>
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS13-测试版
+
+Package: com.xybp888.CallAssistBar
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.xybp888.CallAssistBar_1.0-8_iphoneos-arm.deb
+Size: 46374
+MD5sum: f484691c2e8806fb886daf10c90ebf28
+SHA1: 298ca100a6c8c919b77cf57e81b9e52cc670896a
+SHA256: 8667c9852caae23b610dc0796cad6514ae80be720eab0555d186c078228afb8c
+Section: 插件
+Priority: optional
+Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/79
+Icon: web.png
+Name: 简约来电窗口化
+Sileodepiction: https://apt.htv123.com/sileo/79
+
+Package: com.xybp888.CallAssistBariOS13
+Version: 1.0-0
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.xybp888.CallAssistBariOS13_1.0-0_iphoneos-arm.deb
+Size: 46054
+MD5sum: d048226818a7a8e8bdb31e2cf0560985
+SHA1: 3309d5871195a56cfbb4a798dad030323c1a597f
+SHA256: 0e0b008e10a12f94b9834b5d07825622a16320786096c55d9a5ab29bc9496d23
+Section: 插件
+Priority: optional
+Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/118
+Icon: web.png
+Name: 简约来电窗口化(iOS13)
+Sileodepiction: https://apt.htv123.com/sileo/118
 
