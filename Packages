@@ -39,7 +39,7 @@ Version: 0.9.9-23
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
-Filename: ./debs/CallAssist13_0.9.9-23.deb
+Filename: ./debs/com.xybp888.CallAssist13_0.9.9-23_iphoneos-arm.deb
 Size: 887968
 MD5sum: 35bf2dec25b19a3d9402673ed4818d92
 SHA1: 3a590f0c689b00accae49e3d671eaa6e55e37c8b
