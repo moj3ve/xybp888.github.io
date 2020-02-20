@@ -1,0 +1,8 @@
+Origin: 电话助手源
+Label: 电话助手源
+Suite: stable
+Version: 1.0
+Codename: CallAssist
+Architectures: iphoneos-arm
+Components: main
+Description: 电话助手官方源
