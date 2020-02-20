@@ -4,5 +4,5 @@ find ../ -name ".DS_Store" -depth -exec rm {} \;
 #bzip2 -fks ./Packages
 
 dpkg-scanpackages -m ./debs /dev/null > ./Packages
-tar zcvf Packages.gz Packages
-bzip2 -fks Packages
+tar zcvf ./Packages.gz ./Packages
+bzip2 -fks ./Packages
