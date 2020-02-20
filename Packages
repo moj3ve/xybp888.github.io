@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.xybp888.CallAssist11_1.8-0_iphoneos-arm.deb
-Size: 593450
-MD5sum: 4a9015b7f77495c04d79c8839baa3dbe
-SHA1: 5388fd3d071abaf1d257d7e55856e8a2a3a01664
-SHA256: 6cb89587046383df2599686bbfab7b4d2f2f27313bccaf36b98b73a9aa8fa2a7
+Size: 593442
+MD5sum: fbcb7730edff893ecf412e8179b9924f
+SHA1: d3d46dca872eea9a1314b6c8d0287930b3416359
+SHA256: 79a95c44f23bac9e97dba4ec46874bf0011dc51928cecf7d675b704c000a80ac
 Section: 插件
 Priority: optional
 Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
@@ -23,10 +23,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.xybp888.CallAssist11_2.1-2_iphoneos-arm.deb
-Size: 679412
-MD5sum: a038f4d3c12aa5725f22c6c94b38b437
-SHA1: 7d7e1a0a5da4c31d0275de86fab81f9fb1aeef9a
-SHA256: 428f78859c3139559bbcde2dfe8dfe3580ca1cd73467b72868d72fc83f28c433
+Size: 679402
+MD5sum: bdfce6c8d55363997f5913561a038d2d
+SHA1: 300e658322b9e4fa8e74409f32bda90ef53d820f
+SHA256: 2679370bc73f97900b7eeab121542a890b781643767d0a49f82f454c9a78f3c0
 Section: 插件
 Priority: optional
 Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
@@ -37,15 +37,42 @@ Name: 电话助手iOS11-正式完整版(兼容A11)
 Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist12
+Version: 2.4.3
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.xybp888.CallAssist12_2.4.3_iphoneos-arm.deb
+Size: 735538
+MD5sum: 0eb351f3472ffaee8f0c0adca030c5e1
+SHA1: ffb180671e566df471c1502b64c5aa4f41161dc7
+SHA256: 2c2dd6574ca65b80069d088d152437bca40d51da723c48a6f75e9efa0a9be75a
+Section: 插件
+Priority: optional
+Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
+ 来去电归属地/联系人左滑删除/通话记录解除限制
+ 短信归属地/短信拦截/短信强力防轰炸
+ 来去电接通/挂断震动/自定义振动
+ 来电骚扰拦截/自定义黑名单拦截/自定义白名单
+ 锁屏滑动拒接/拒接按钮显示/CallKit通话
+ 特定时间格式/双击锁屏/双击亮屏/照片永久删除
+ 自定义运营商文字(支持双卡)/电池原生百分比
+ 启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com
+
+Package: com.xybp888.CallAssist12
 Version: 2.4.6-15
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
 Filename: ./debs/com.xybp888.CallAssist12_2.4.6-15_iphoneos-arm.deb
-Size: 809176
-MD5sum: 8f3422ae54298908156374903c5474f2
-SHA1: 2520dd05cce1648bb221b1b5ed84902b4a86f512
-SHA256: 3dec7ce2da31912f8f90cd639fd336abb4199a80b8a13854023d7408212b8a4c
+Size: 809164
+MD5sum: c0fa2d2fc063606fc2747cb30f5fbd64
+SHA1: 7715746d6a0ee5a778e942db8914bdcd7bc204c0
+SHA256: a4501d5eb9f4eb78dd0c7457a713e54ad0be44b3266bf604954d03883901f491
 Section: 插件
 Priority: optional
 Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
@@ -70,10 +97,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
 Filename: ./debs/com.xybp888.CallAssist12_2.4.6-16_iphoneos-arm.deb
-Size: 808836
-MD5sum: b5cee70e3da30cbeb6b5f34e301a44a7
-SHA1: 4367c80a507bb7744977323e653e91555d9f0a67
-SHA256: ad05c0cbc31ba54a99de416259b8879c781f32965dba82a0fc9036fdaaafbe26
+Size: 808822
+MD5sum: 130fd4226021bf8e6bfcee54aa2a4ba7
+SHA1: e07ac958e7d9c4cdc8bbeedfbbf67a98752eb758
+SHA256: f75e6903c1aceb5dbbaebbaecd83d4fe5046faeb39ab67bf259b70e386c7436b
 Section: 插件
 Priority: optional
 Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
@@ -98,10 +125,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
 Filename: ./debs/com.xybp888.CallAssist12_2.4.6-23_iphoneos-arm.deb
-Size: 967318
-MD5sum: e99650e07156dccc857b8cb701006b0a
-SHA1: 2bd0f00f674d9617ab8129587a65d0deb46d129b
-SHA256: fb9e5a786c83712b44f80de63d2718824b92afd7dc0d2c139cfd224550d7f6c2
+Size: 967310
+MD5sum: 28fb8cff2059234214c4fa2a1ceccd37
+SHA1: fb9b0da60d290f809475e8b4f62edb8174eada1f
+SHA256: 8bd6c9bd9943ee9be2dafaad71f28208ced188841ecd2d319cc2b1289b4eb707
 Section: 插件
 Priority: optional
 Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
@@ -121,40 +148,32 @@ Name: 电话助手iOS12-正式完整版(兼容A12)
 Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist12
-Version: 2.4.9
-Architecture: iphoneos-arm
-Maintainer: xybp888 <8657156@qq.com>
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
-Filename: ./debs/com.xybp888.CallAssist12_2.4.9_iphoneos-arm.deb
-Size: 1059416
-MD5sum: 04539cf20fe00230b635d33c6609946c
-SHA1: 16b7f9ac510db32010bb77f8805837a05cedbc76
-SHA256: 616d5e2804ca8f2475558006f72c984fd288b4fc5b374314cebab85d9eca029a
-Section: Tweak
-Priority: optional
-Homepage: https://apt.htv123.com
-Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
-Author: xybp888 <8657156@qq.com>
-Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
-Name: 电话助手iOS12-正式完整版(兼容A12)
-
-Package: com.xybp888.CallAssist12
 Version: 2.5.0
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
 Filename: ./debs/com.xybp888.CallAssist12_2.5.0_iphoneos-arm.deb
-Size: 1057364
-MD5sum: 2e42fb1027ea679ae54b96befb4b577f
-SHA1: e7b3ad43d6b009879e8b13f1da49767c01c4dcc9
-SHA256: 5f96918fa7c0eca65a1c615febbba02e57fc9524bef3c5ae35dc999ca45f1dce
-Section: Tweak
+Size: 1059752
+MD5sum: 3b51a5c96b43b205c6ae9e31b77c80bc
+SHA1: ba9ac26110d49f37fa38e36b38301c2e3434bfba
+SHA256: 89a5026ed8af407d1dccfc1e56ab833c711f2ff3dd877da807c70592b75676b0
+Section: 插件
 Priority: optional
-Homepage: https://apt.htv123.com
-Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
+ 来去电归属地/联系人左滑删除/通话记录解除限制
+ 短信归属地/短信拦截/短信强力防轰炸
+ 来去电接通/挂断震动/自定义振动
+ 来电骚扰拦截/自定义黑名单拦截/自定义白名单
+ 锁屏滑动拒接/拒接按钮显示/CallKit通话
+ 特定时间格式/双击锁屏/双击亮屏/照片永久删除
+ 自定义运营商文字(支持双卡)/电池原生百分比
+ 启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
+ 自定义电池填充颜色,充电呼吸灯等
 Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist13
 Version: 0.9.9-17
@@ -162,10 +181,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.xybp888.CallAssist13_0.9.9-17_iphoneos-arm.deb
-Size: 792038
-MD5sum: 6b4df0200f37532e493c08c152b88ddf
-SHA1: 321032d80f5bd99be8177c7dfc12fa98b00206b3
-SHA256: 0fe8d8e7025649b3d6401f48501510ac8957a45883e41e55d8db82169091c9a3
+Size: 792028
+MD5sum: 1e1c580d62e957d4edc73b7813b06328
+SHA1: 3df2c9fd94b1d9e28659055718b63508d8da4605
+SHA256: 434b0710616c6d9da5b91ff526758a3a6646704e0d6a1eb5f893d6fd1fdd012c
 Section: 插件
 Priority: optional
 Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
@@ -179,19 +198,20 @@ Package: com.xybp888.CallAssist13
 Version: 0.9.9-23
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
-Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.xybp888.CallAssist13_0.9.9-23_iphoneos-arm.deb
-Size: 887968
-MD5sum: 35bf2dec25b19a3d9402673ed4818d92
-SHA1: 3a590f0c689b00accae49e3d671eaa6e55e37c8b
-SHA256: 702300b879d055350ab9acabfa680e66d219cba8d1dae2b618443a2291e16eab
-Section: Tweak
+Size: 887960
+MD5sum: 12eb80f09a3b4d43dc445369dc5862d6
+SHA1: c5aec851788a57b0c254c5e77f01479a9f1c5120
+SHA256: 8179f633028093784316adbb85694fb89d3bf7b339d7d581bace0956dee939df
+Section: 插件
 Priority: optional
-Homepage: https://apt.htv123.com
 Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
 Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS13-测试版
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssistBar
 Version: 1.0-8
@@ -199,10 +219,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debs/com.xybp888.CallAssistBar_1.0-8_iphoneos-arm.deb
-Size: 46374
-MD5sum: f484691c2e8806fb886daf10c90ebf28
-SHA1: 298ca100a6c8c919b77cf57e81b9e52cc670896a
-SHA256: 8667c9852caae23b610dc0796cad6514ae80be720eab0555d186c078228afb8c
+Size: 46366
+MD5sum: a6510d626c8316767e84d7cfc45f3ec6
+SHA1: efffeb9c7d6fdaaf46df4586e13ca6f13dbdf124
+SHA256: b05cc6adf15f1a572df7ce5eb19ca5aa6ce28e98e3bb5c8df448c073c3cee0b2
 Section: 插件
 Priority: optional
 Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
@@ -218,10 +238,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/com.xybp888.CallAssistBariOS13_1.0-0_iphoneos-arm.deb
-Size: 46054
-MD5sum: d048226818a7a8e8bdb31e2cf0560985
-SHA1: 3309d5871195a56cfbb4a798dad030323c1a597f
-SHA256: 0e0b008e10a12f94b9834b5d07825622a16320786096c55d9a5ab29bc9496d23
+Size: 46038
+MD5sum: b3a26ad75611c540f691ca8f6bffc3d4
+SHA1: 05cde39a841024d5949d8259fe13efee9bdbc144
+SHA256: 58c4b7b58c075b5b13dbd0eda7f693b8550623e537db818d58370ef2ebd41cd5
 Section: 插件
 Priority: optional
 Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
@@ -237,12 +257,12 @@ Architecture: iphoneos-arm
 Maintainer: xybp888
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/xybp888_DualCellularSIM_0.0.1-2_iphoneos-arm.deb
-Size: 5934
-MD5sum: 90586a3cf4b81393a53bba81127e0c9a
-SHA1: 9b3872a26d08916631511d605b2117c64c93e4b3
-SHA256: d07cfa81017ec41841286b61e8365fc559ea585d884ceb03044e3a5dbc3442a1
-Section: Tweaks
+Filename: ./debs/xybp888_DualCellularSIMColor _0.0.1-2_iphoneos-arm.deb
+Size: 5924
+MD5sum: 1b8a8d9fe9eaa2f71c9df0852798e5de
+SHA1: 3f88c50240f8b7b813d7f7663b9079953cbcf133
+SHA256: 0290fbf93c8db5c03e7ad436f40bf4fa4d3c7fdc64e042b4ee838982567e360b
+Section: 插件
 Description: Dual Cellular SIM Color support SMS list and Recent call history
  双卡显示颜色，支持短信列表和通话记录
 Author: xybp888
