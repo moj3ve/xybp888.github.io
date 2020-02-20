@@ -1,4 +1,23 @@
 Package: com.xybp888.CallAssist11
+Version: 1.8-0
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.xybp888.CallAssist11_1.8-0_iphoneos-arm.deb
+Size: 593450
+MD5sum: 4a9015b7f77495c04d79c8839baa3dbe
+SHA1: 5388fd3d071abaf1d257d7e55856e8a2a3a01664
+SHA256: 6cb89587046383df2599686bbfab7b4d2f2f27313bccaf36b98b73a9aa8fa2a7
+Section: 插件
+Priority: optional
+Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/5
+Icon: 插件.png
+Name: 电话助手iOS11-正式完整版(兼容A11)
+Sileodepiction: https://apt.htv123.com/sileo/5
+
+Package: com.xybp888.CallAssist11
 Version: 2.1-2
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
@@ -211,4 +230,24 @@ Depiction: https://apt.htv123.com/view/118
 Icon: web.png
 Name: 简约来电窗口化(iOS13)
 Sileodepiction: https://apt.htv123.com/sileo/118
+
+Package: xybp888
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: xybp888
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/xybp888_DualCellularSIM_0.0.1-2_iphoneos-arm.deb
+Size: 5934
+MD5sum: 90586a3cf4b81393a53bba81127e0c9a
+SHA1: 9b3872a26d08916631511d605b2117c64c93e4b3
+SHA256: d07cfa81017ec41841286b61e8365fc559ea585d884ceb03044e3a5dbc3442a1
+Section: Tweaks
+Description: Dual Cellular SIM Color support SMS list and Recent call history
+ 双卡显示颜色，支持短信列表和通话记录
+Author: xybp888
+Depiction: https://apt.htv123.com/view/83
+Icon: web.png
+Name: DualcellularColor(双卡颜色)
+Sileodepiction: https://apt.htv123.com/sileo/83
 
