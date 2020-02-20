@@ -12,10 +12,10 @@ Section: 插件
 Priority: optional
 Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/5
+Depiction: https://apt.htv123.com
 Icon: 插件.png
 Name: 电话助手iOS11-正式完整版(兼容A11)
-Sileodepiction: https://apt.htv123.com/sileo/5
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist11
 Version: 2.1-2
@@ -31,10 +31,10 @@ Section: 插件
 Priority: optional
 Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/51
+Depiction: https://apt.htv123.com
 Icon: file:///Applications/MobilePhone.app/AppIcon60x60@2x.png
 Name: 电话助手iOS11-正式完整版(兼容A11)
-Sileodepiction: https://apt.htv123.com/sileo/51
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist12
 Version: 2.4.6-15
@@ -59,10 +59,10 @@ Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
  启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
  自定义电池填充颜色,充电呼吸灯等
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/157
+Depiction: https://apt.htv123.com
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS12-正式完整版(兼容A12)
-Sileodepiction: https://apt.htv123.com/sileo/157
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist12
 Version: 2.4.6-16
@@ -87,10 +87,10 @@ Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
  启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
  自定义电池填充颜色,充电呼吸灯等
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/158
+Depiction: https://apt.htv123.com
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS12-正式完整版(兼容A12)
-Sileodepiction: https://apt.htv123.com/sileo/158
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist12
 Version: 2.4.6-23
@@ -115,10 +115,10 @@ Description: 拨号T9搜索/键盘高亮搜索/拨号键盘静音
  启用常用支付越狱检测,开启指纹/面容识别(QQ,WeChat,AliPay)
  自定义电池填充颜色,充电呼吸灯等
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/165
+Depiction: https://apt.htv123.com
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS12-正式完整版(兼容A12)
-Sileodepiction: https://apt.htv123.com/sileo/165
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist12
 Version: 2.4.9
@@ -170,10 +170,10 @@ Section: 插件
 Priority: optional
 Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/172
+Depiction: https://apt.htv123.com
 Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
 Name: 电话助手iOS13-测试版
-Sileodepiction: https://apt.htv123.com/sileo/172
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist13
 Version: 0.9.9-23
@@ -207,10 +207,10 @@ Section: 插件
 Priority: optional
 Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/79
+Depiction: https://apt.htv123.com
 Icon: web.png
 Name: 简约来电窗口化
-Sileodepiction: https://apt.htv123.com/sileo/79
+Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssistBariOS13
 Version: 1.0-0
@@ -226,10 +226,10 @@ Section: 插件
 Priority: optional
 Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
 Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/118
+Depiction: https://apt.htv123.com
 Icon: web.png
 Name: 简约来电窗口化(iOS13)
-Sileodepiction: https://apt.htv123.com/sileo/118
+Sileodepiction: https://apt.htv123.com
 
 Package: xybp888
 Version: 0.0.1-2
@@ -246,8 +246,8 @@ Section: Tweaks
 Description: Dual Cellular SIM Color support SMS list and Recent call history
  双卡显示颜色，支持短信列表和通话记录
 Author: xybp888
-Depiction: https://apt.htv123.com/view/83
+Depiction: https://apt.htv123.com
 Icon: web.png
 Name: DualcellularColor(双卡颜色)
-Sileodepiction: https://apt.htv123.com/sileo/83
+Sileodepiction: https://apt.htv123.com
 
