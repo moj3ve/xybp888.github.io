@@ -8,4 +8,4 @@ CallAssist's Repo
 4.简约来电(窗口化来电)
 5.双卡彩色显示(通话记录,短信)
 
-添加到Cydia http://apt.htv123.com
+添加到Cydia https://beta.htv123.com
