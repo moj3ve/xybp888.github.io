@@ -1,0 +1,54 @@
+Package: com.xybp888.CallAssist12
+Version: 2.4.9
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.4.9_iphoneos-arm.deb
+Size: 1059416
+MD5sum: 04539cf20fe00230b635d33c6609946c
+SHA1: 16b7f9ac510db32010bb77f8805837a05cedbc76
+SHA256: 616d5e2804ca8f2475558006f72c984fd288b4fc5b374314cebab85d9eca029a
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+
+Package: com.xybp888.CallAssist12
+Version: 2.5.0
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.5.0_iphoneos-arm.deb
+Size: 1057364
+MD5sum: 2e42fb1027ea679ae54b96befb4b577f
+SHA1: e7b3ad43d6b009879e8b13f1da49767c01c4dcc9
+SHA256: 5f96918fa7c0eca65a1c615febbba02e57fc9524bef3c5ae35dc999ca45f1dce
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+
+Package: com.xybp888.CallAssist13
+Version: 0.9.9-23
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Filename: ./debs/CallAssist13_0.9.9-23.deb
+Size: 887968
+MD5sum: 35bf2dec25b19a3d9402673ed4818d92
+SHA1: 3a590f0c689b00accae49e3d671eaa6e55e37c8b
+SHA256: 702300b879d055350ab9acabfa680e66d219cba8d1dae2b618443a2291e16eab
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS13-测试版
+
