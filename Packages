@@ -214,15 +214,15 @@ Name: 电话助手iOS13-测试版
 Sileodepiction: https://apt.htv123.com
 
 Package: com.xybp888.CallAssist13
-Version: 0.9.9-24
+Version: 0.9.9-25
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
-Filename: ./debs/com.xybp888.CallAssist13_0.9.9-24_iphoneos-arm.deb
-Size: 887064
-MD5sum: 3c59c7245fc43ba8e0e60422787f8e2a
-SHA1: 99bbfd9959f61e9efda7c95dfddc7c7c3473b18b
-SHA256: ad9b4581dcc922fd5d840ba8064bf6ca6f4684f3c8427043dac86af1d424be6b
+Filename: ./debs/com.xybp888.CallAssist13_0.9.9-25_iphoneos-arm.deb
+Size: 889036
+MD5sum: e55b3b8a5897826adfd9dff636240aa2
+SHA1: ff243cf5c8fc3e7b33c927797e5e60ff4a552cab
+SHA256: f21a27e7fe6f61dcf78ef93a35e898e03fb409fc879c6ea6eb0140ce3c15b78a
 Section: Tweak
 Priority: optional
 Homepage: https://apt.htv123.com
