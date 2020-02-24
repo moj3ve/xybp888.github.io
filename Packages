@@ -232,15 +232,15 @@ Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@
 Name: 电话助手iOS13-测试版
 
 Package: com.xybp888.CallAssist13
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
-Filename: ./debs/com.xybp888.CallAssist13_1.0.0_iphoneos-arm.deb
-Size: 895864
-MD5sum: 97e06595068c156c1a9bee321e5d7f36
-SHA1: 660a0d7a7aec2037664808980f3e6e115da57e87
-SHA256: be0566361aa85ffb2752cb544850a85239f1cb2df9644d0e906e1df8caec3113
+Filename: ./debs/com.xybp888.CallAssist13_1.0.1_iphoneos-arm.deb
+Size: 895908
+MD5sum: beeb88b4ad454afd61717d2434f8e7f0
+SHA1: 8836bcb7a79326737f7ebe51aff90852cf22dfdf
+SHA256: 3563649d54f51cf10d71936cae9d90a2789e9cf41c99f115c59d3df428dd701b
 Section: Tweak
 Priority: optional
 Homepage: https://apt.htv123.com
