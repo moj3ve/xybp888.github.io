@@ -175,6 +175,26 @@ Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@
 Name: 电话助手iOS12-正式完整版(兼容A12)
 Sileodepiction: https://apt.htv123.com
 
+Package: com.xybp888.CallAssist12
+Version: 2.5.1
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.5.1_iphoneos-arm.deb
+Size: 1067610
+MD5sum: d2bc56d38bbd4201100708a93989b061
+SHA1: a333d6196a259243487f0951d56394bd518d9c88
+SHA256: d40fdba8126b3729e83b79f6929266f391276cc1e05003e1672b75bb848a2a0f
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/update12.html
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com/update12.html
+
 Package: com.xybp888.CallAssist13
 Version: 0.9.9-17
 Architecture: iphoneos-arm
