@@ -371,3 +371,41 @@ Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@
 Name: 电话助手iOS13-正式完整版(兼容A12/A13)
 Sileodepiction: https://apt.htv123.com/update.html
 
+Package: com.xybp888.CallAssist13
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Filename: ./debs/com.xybp888.CallAssist13_1.0.7_iphoneos-arm.deb
+Size: 966924
+MD5sum: 8ee2020f3634d6bc98d5998f34be5e16
+SHA1: 79147df7c27091b9f1246ec1bf8e93b33107d1f2
+SHA256: 1c5f97d7a069cdda665eaae73db757b10eb1353a9bde4b50c45789573456be50
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/update.html
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS13-正式完整版(兼容A12/A13)
+Sileodepiction: https://apt.htv123.com/update.html
+
+Package: com.xybp888.CallAssistBariOS13
+Version: 1.0-0
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.xybp888.CallAssistBariOS13_1.0-0_iphoneos-arm.deb
+Size: 45952
+MD5sum: a73bc76de9bd75436e026493cae448bc
+SHA1: 409805fafeaa7116792b33cf9a4ff543edd60a0f
+SHA256: b10c5bbd3460bbeacca25a4ea085c5fa0a441027a53b83697b3b945e07bbedb1
+Section: System
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 简约的来电免打扰窗口化插件.游戏不会被打断.
+Author: xybp888 <8657156@qq.com>
+Icon: web.png
+Name: 简约来电窗口化
+
