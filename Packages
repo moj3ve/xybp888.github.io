@@ -215,6 +215,26 @@ Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@
 Name: 电话助手iOS12-正式完整版(兼容A12)
 Sileodepiction: https://apt.htv123.com/update12.html
 
+Package: com.xybp888.CallAssist12
+Version: 2.5.3
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap
+Filename: ./debs/com.xybp888.CallAssist12_2.5.3_iphoneos-arm.deb
+Size: 1108064
+MD5sum: 44863f767549f0a0383b028582a47842
+SHA1: d0f239ed96642c2ff1ec2eddc6a938e035988a31
+SHA256: 90144bf65ec8d615536138eca884bb54632394a1f9b3219f24d5af0ea28bfbda
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,来去电归属地,黑名单,骚扰拦截等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/update12.html
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS12-正式完整版(兼容A12)
+Sileodepiction: https://apt.htv123.com/update12.html
+
 Package: com.xybp888.CallAssist13
 Version: 0.9.9-17
 Architecture: iphoneos-arm
@@ -621,6 +641,26 @@ Size: 998646
 MD5sum: 2fb832ae51d1322925dec05536a60e9a
 SHA1: 337b9c253ca9719cf56b397caf09798464efea2f
 SHA256: 27ee261acaf366af10c0774c14966949a51b675bc1f0dd052c570ffad342323c
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/update.html
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS13-正式完整版(兼容A12/A13)
+Sileodepiction: https://apt.htv123.com/update.html
+
+Package: com.xybp888.CallAssist13
+Version: 1.1.9
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Filename: ./debs/com.xybp888.CallAssist13_1.1.9_iphoneos-arm.deb
+Size: 999878
+MD5sum: 23481f7734142dcf8d71396fa57687e1
+SHA1: dd1529ba9027dbfa7899afe15115d64bd066ce55
+SHA256: 3b20ae886026ee1bc9290afdb3826368e7be4fc29108012f446147746ee98356
 Section: Tweak
 Priority: optional
 Homepage: https://apt.htv123.com
