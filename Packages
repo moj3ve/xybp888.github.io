@@ -102,10 +102,10 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
 Filename: ./debs/com.xybp888.CallAssist13_1.2.5.0-0_iphoneos-arm.deb
-Size: 1356118
-MD5sum: ca71ba8b3824bb65020e0ef9596fe1b9
-SHA1: 928c3af5755aa917d410ace816fc690fccbf3506
-SHA256: b9a2f61c6f63ee117079dae06b9e9cf0861b86f7ab4371b0b0b68c62862a9bf5
+Size: 1357946
+MD5sum: 52a81aa1c1fa9bdeabea9ea5dded5edc
+SHA1: 33f4fa6d57c7083502630a2610c7b03da108c362
+SHA256: f53188866a2868cf959c822bf4f70eeedfdf5eb7d9a5d4dc1d86fda319d01729
 Section: Tweak
 Priority: optional
 Homepage: https://apt.htv123.com
