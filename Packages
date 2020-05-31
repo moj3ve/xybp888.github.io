@@ -116,6 +116,26 @@ Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@
 Name: 电话助手iOS13-正式完整版(兼容A12/A13)
 Sileodepiction: https://apt.htv123.com/update.html
 
+Package: com.xybp888.CallAssist13
+Version: 1.2.7.0
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
+Filename: ./debs/com.xybp888.CallAssist13_1.2.7.0_iphoneos-arm.deb
+Size: 1360844
+MD5sum: 49256489ed88beac812ed19e7c33ed8a
+SHA1: c72df72ddcd3f1a6b54e7d79993ceb4bbeb10fef
+SHA256: 89b2c1ff32e43d40bc8db1a8e5bdf9f1ea767065cf4436e2b192d39681cd56a0
+Section: Tweak
+Priority: optional
+Homepage: https://apt.htv123.com
+Description: 电话助手授权版本,集成T9,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/update.html
+Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
+Name: 电话助手iOS13-正式完整版(兼容A12/A13)
+Sileodepiction: https://apt.htv123.com/update.html
+
 Package: com.xybp888.CallAssistBariOS13
 Version: 1.0-0
 Architecture: iphoneos-arm
